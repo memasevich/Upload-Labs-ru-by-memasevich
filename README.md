@@ -39,7 +39,7 @@
 
 <div align="center">
   <br>
-  <img src="assets/memasevich-logo.png" alt="memasevich" width="360">
+  <img src="assets/memasevich-logo-transparent.png" alt="memasevich" width="360">
   <br>
   <sub>Russian localization by memasevich</sub>
 </div>
